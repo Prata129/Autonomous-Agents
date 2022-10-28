@@ -6,11 +6,7 @@ A Python implementation of a Multi Agent System whose purpose is to clean an env
 
 ### Installation
 
-1. Clone the repo
-  ```sh
-  git clone https://github.com/MiguelJardim/MultiAgentCooperativeGridSweep
-  ```
-2. Install requirements
+1. Install requirements
   ```sh
    pip install -r requirements.txt
   ```
